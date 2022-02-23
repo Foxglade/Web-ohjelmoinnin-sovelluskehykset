@@ -137,6 +137,22 @@ img{
     font-size: 16px;
     transition-duration: 0.4s;
   }
+  .searchIcon3{
+  
+  
+    background-color: #cd904d;
+    width: 200px;
+    height: 42px;
+    border: none;
+    padding: 10px  ;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-right: 60px;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
   /*.blink_me {        TÄMÄ SATTUU SILMIIN Xd
     color: #cd904d;
     animation: blinker 0.5s linear infinite;
