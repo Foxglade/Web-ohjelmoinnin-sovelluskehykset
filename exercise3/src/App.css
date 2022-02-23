@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 15px;
+    margin-left: 20px;
+}
+h2{
+    color: #cd904d;
+    margin: 15px;
+    margin-left: 20px;
+}
+h3{
+    margin: 15px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+h4{
+
+    margin: 5px;
+    margin-left: 25px;
+}
+
+.search{
+    background-color: #0F1111;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+
+
+.searchIcon:hover {
+  
+    color: white;
+  }
+  .searchIcon2:hover {
+  
+    color: white;
+  }
+
+.orange{
+    color: #cd904d;
+}
+
+.wrapContainer{
+    flex-wrap: wrap;
+    flex-direction:row;
+    margin: 20px;
+    
+}
+
+.productContainer{
+    padding: 35px;
+    width: 380px;
+    height: 300px;
+    margin-bottom: 50px;
+    transition-duration: 0.4s;
+    
+    
+}
+
+.productImg{
+    height: 200px;
+    max-height: 250px;
+    width: auto;
+    max-width: 350px;
+}
+
+.flex{
+    display: flex;
+}
+
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+}
+
+.review{
+    margin: 20px;
+    margin-left:25px;
+}
+
+
+.headerLogo {
+  
+    margin-top: 18px;
+    height: 70px;
+  }
+  .searchInput{
+    height: 40px;
+    border: none;
+    width:90%;
+    margin-left: 30px;
+    
+    margin-bottom: 5px;
+  }
+  .header{
+    background-color: #0F1111;
+    display: flex;
+    align-items: center;
+    position: sticky;
+
+   
+    
+  }
+  .searchIcon{
+  
+  
+    background-color: #cd904d;
+    height: 42px;
+    border: none;
+    padding: 10px  ;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 60px;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
+  .searchIcon2{
+  
+  
+    background-color: #cd904d;
+    width: 200px;
+    height: 42px;
+    border: none;
+    padding: 10px  ;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 60px;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
+  /*.blink_me {        TÄMÄ SATTUU SILMIIN Xd
+    color: #cd904d;
+    animation: blinker 0.5s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      color: #fffb00;
+    }
+  }*/

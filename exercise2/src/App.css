@@ -1,0 +1,8 @@
+.bigtitle {
+  background-color: black;
+  color: white;
+  font-size: 40px;
+}
+li.isChecked {
+  text-decoration: line-through;
+}

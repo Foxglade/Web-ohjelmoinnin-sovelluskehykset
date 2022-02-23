@@ -1,0 +1,125 @@
+[
+    {
+      "id": 1,
+      "type": "IPhone 13",
+      "brand": "Apple",
+      "rating": 5,
+      "price": 829,
+      "img": "iphone.jpg",
+      "category": "Phones",
+      "additionals": "",
+      "tags": ["phone"]
+    },
+    {
+      "id": 2,
+      "type": "Galaxy S21",
+      "brand": "Samsung",
+      "rating": 3.5,
+      "price": 600,
+      "img": "samsung.jpg",
+      "category": "Phones",
+      "additionals": "",
+      "tags": ["phone"]
+    },
+    {
+      "id": 3,
+      "type": "Yeti",
+      "brand": "Blue",
+      "rating": 4,
+      "price": 99,
+      "img": "mikki.jpg",
+      "category": "Computers",
+      "additionals": "",
+      "tags": ["computer","mic"]
+    },
+    {
+      "id": 4,
+      "type": "ATH-M50x",
+      "brand": "Audio-Technica",
+      "rating": 4,
+      "price": 1800,
+      "img": "kuuloke.jpg",
+      "category": "Computers",
+      "additionals": "",
+      "tags": ["computer","gaming","headphone"]
+    },
+    {
+      "id": 5,
+      "type": "ROG Zephyrus",
+      "brand": "Asus",
+      "rating": 4,
+      "price": 2399,
+      "img": "läppäri.jpg",
+      "category": "Computers",
+      "additionals": "",
+      "tags": ["computer","gaming"]
+    },
+    {
+      "id": 6,
+      "type": "Switch",
+      "brand": "Nintendo",
+      "rating": 3,
+      "price": 304,
+      "img": "nintendo.jpg",
+      "category": "Accessory",
+      "additionals": "",
+      "tags": ["console","gaming"]
+    },
+    {
+      "id": 7,
+      "type": "4K UHD",
+      "brand": "Gigabyte",
+      "rating": 5,
+      "price": 1099,
+      "img": "näyttö.jpg",
+      "category": "Accessory",
+      "additionals": "",
+      "tags": ["computer","gaming","screen"]
+    },
+    {
+      "id": 8,
+      "type": "OnePlus 9",
+      "brand": "OnePlus",
+      "rating": 4,
+      "price": 3500,
+      "img": "OnePlus.jpg",
+      "category": "Phones",
+      "additionals": "",
+      "tags": ["communicator","smartphone"]
+    },
+    
+    {
+      "id": 9,
+      "type": "Big Chungus V2",
+      "brand": "Jimm's Liquid Builds",
+      "rating": 5,
+      "price": 6999,
+      "img": "tietokone.jpg",
+      "category": "Computers",
+      "additionals": "",
+      "tags": ["computer","gaming"]
+    },
+    {
+      "id": 10,
+      "type": "PlayStation 5",
+      "brand": "Sony",
+      "rating": 5,
+      "price": 549,
+      "img": "ps5.jpg",
+      "category": "Gaming",
+      "additionals": "",
+      "tags": ["console","ps"]
+    },
+    {
+      "id": 11,
+      "type": "Series X 1TB",
+      "brand": "Microsoft",
+      "rating": 5,
+      "price": 809,
+      "img": "xbox.jpg",
+      "category": "Gaming",
+      "additionals": "",
+      "tags": ["console"]
+    }
+    
+]
