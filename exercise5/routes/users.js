@@ -26,4 +26,4 @@ router.post('/', (req, res) => {
     res.sendStatus(201);
 });
 
-module.exports = router
+module.exports = router;
